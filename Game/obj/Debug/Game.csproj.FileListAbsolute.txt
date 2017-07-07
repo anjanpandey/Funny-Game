@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\Game\Game\bin\Debug\Game.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Game\Game\bin\Debug\Game.exe
+c:\users\admin\documents\visual studio 2017\Projects\Game\Game\bin\Debug\Game.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Game\Game\obj\Debug\Game.exe
+c:\users\admin\documents\visual studio 2017\Projects\Game\Game\obj\Debug\Game.pdb
